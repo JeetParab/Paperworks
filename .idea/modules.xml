@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/source_code.iml" filepath="$PROJECT_DIR$/.idea/modules/source_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/source_code.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/source_code.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/source_code.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/source_code.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/source_code.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/source_code.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/source_code.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/source_code.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/source_code.scanlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/source_code.scanlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/source_code.scanlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/source_code.scanlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/source_code.scanlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/source_code.scanlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/source_code.scanlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/source_code.scanlibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanner/source_code.scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/scanner/source_code.scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanner/source_code.scanner.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scanner/source_code.scanner.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanner/source_code.scanner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/scanner/source_code.scanner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanner/source_code.scanner.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scanner/source_code.scanner.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticker/source_code.sticker.iml" filepath="$PROJECT_DIR$/.idea/modules/sticker/source_code.sticker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticker/source_code.sticker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sticker/source_code.sticker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticker/source_code.sticker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sticker/source_code.sticker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticker/source_code.sticker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sticker/source_code.sticker.unitTest.iml" />
+    </modules>
+  </component>
+</project>

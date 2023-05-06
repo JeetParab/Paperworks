@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.divyanshu.colorseekbar:colorseekbar:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://C:/Projects/source_code/.gradle/4.8.1/caches/transforms-3/50f58ad135522592cf2f21d0d117ba38/transformed/jetified-colorseekbar-1.0.2/jars/classes.jar!/" />
+      <root url="file://C:/Projects/source_code/.gradle/4.8.1/caches/transforms-3/50f58ad135522592cf2f21d0d117ba38/transformed/jetified-colorseekbar-1.0.2/res" />
+      <root url="file://C:/Projects/source_code/.gradle/4.8.1/caches/transforms-3/50f58ad135522592cf2f21d0d117ba38/transformed/jetified-colorseekbar-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Projects/source_code/.gradle/4.8.1/caches/modules-2/files-2.1/com.divyanshu.colorseekbar/colorseekbar/1.0.2/30e3a40541a35c7dd0415b2d726d2e48aa1fb076/colorseekbar-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Projects/source_code/.gradle/4.8.1/caches/modules-2/files-2.1/com.divyanshu.colorseekbar/colorseekbar/1.0.2/8c09b83e955abc545ed1e6e93f2a6cc167464775/colorseekbar-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

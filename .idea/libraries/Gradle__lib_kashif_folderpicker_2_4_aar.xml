@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: lib.kashif:folderpicker:2.4@aar">
+    <CLASSES>
+      <root url="jar://C:/Projects/source_code/.gradle/4.8.1/caches/transforms-3/c3dce0b5804a918a2aa1ec8355915cde/transformed/jetified-folderpicker-2.4/jars/classes.jar!/" />
+      <root url="file://C:/Projects/source_code/.gradle/4.8.1/caches/transforms-3/c3dce0b5804a918a2aa1ec8355915cde/transformed/jetified-folderpicker-2.4/res" />
+      <root url="file://C:/Projects/source_code/.gradle/4.8.1/caches/transforms-3/c3dce0b5804a918a2aa1ec8355915cde/transformed/jetified-folderpicker-2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Projects/source_code/.gradle/4.8.1/caches/modules-2/files-2.1/lib.kashif/folderpicker/2.4/461e79e3bb620dbf7ebc58344f672e6832ea157d/folderpicker-2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Projects/source_code/.gradle/4.8.1/caches/modules-2/files-2.1/lib.kashif/folderpicker/2.4/2dca2380d239d3ee1d3b242b8fdb2537fafc9493/folderpicker-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
